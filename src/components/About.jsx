@@ -9,8 +9,9 @@ const About = () => {
                     First API is TrueWay Geocoding from Rapid API. <br />
                     This API uses a name of a city and converts it to GPS coordinates. <br />
                     Second API is WeatherAPI.com also from Rapid API. <br />
-                    This API uses the given coordinates and display weather conditions. <br />
-                    All of this is made in React. <br /> <br />
+                    This API uses the given coordinates and displays weather conditions. <br />
+                    All of this is made in React. <br />
+                    Check out my <a className="text-red-600 underline" href="https://github.com/mirzareact">GitHub</a> page <br /> <br />
                     Made by Mirza Hodžić
                 </p>
                 </div>
